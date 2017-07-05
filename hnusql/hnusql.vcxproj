@@ -73,7 +73,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
     <IncludePath>C:\Users\YuLin Luo\Documents\Visual Studio 2017\NewRepo\hnusql\hnusql\include2;C:\Users\YuLin Luo\Documents\Visual Studio 2017\NewRepo\hnusql\hnusql\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\YuLin Luo\Documents\Visual Studio 2017\NewRepo\hnusql\libmysql;$(LibraryPath)</LibraryPath>
+    <LibraryPath>C:\Users\YuLin Luo\Documents\Visual Studio 2017\NewRepo\hnusql\hnusql\libmysql;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
